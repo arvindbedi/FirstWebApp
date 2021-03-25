@@ -9,8 +9,8 @@ public class homecontroller {
    // @ResponseBody
 	public String home()
 	{
-		System.out.println("HI");
-		return "Home.jsp"; 
+		System.out.println("HI everyone");
+		return "Home"; 
 		
 		
 		
