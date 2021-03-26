@@ -7,9 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<H1>I love Myself ${name}</H1> 
-<H1>I love Myself${name}</H1>
-<H1>I love Myself${name}</H1>
-<H1>I love Myself${name}</H1>
+<H1>My room is ${roomNo}</H1> 
+
 </body>
 </html>
